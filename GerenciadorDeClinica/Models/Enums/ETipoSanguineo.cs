@@ -2,7 +2,7 @@
 
 namespace GerenciadorDeClinica.Models.Enums
 {
-    public enum ETipoSanguíneo
+    public enum ETipoSanguineo
     {
         [Description("A+")] APositivo,
         [Description("A-")] ANegativo,
